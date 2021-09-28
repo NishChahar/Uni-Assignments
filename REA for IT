@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2021-09-28T13:06:37.430Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36" etag="m63RTEFHWfkfKciHvwW_" version="15.3.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-28T13:44:43.499Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36" etag="OS6Y_A4emoX9522Mzhwy" version="15.3.6" type="github">
   <diagram id="HogSAyfV4MkdTESotyHZ" name="Page-1">
     <mxGraphModel dx="1422" dy="737" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="-ucGmdWXKnA_pTdsgtlh-28" value="" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;pointerEvents=0;" vertex="1" parent="1">
+          <mxGeometry x="30" y="50" width="850" height="420" as="geometry" />
+        </mxCell>
         <mxCell id="-ucGmdWXKnA_pTdsgtlh-1" value="Money" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;pointerEvents=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="110" y="150" width="120" height="60" as="geometry" />
         </mxCell>
@@ -73,6 +76,11 @@
             <mxPoint x="439" y="240" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="-ucGmdWXKnA_pTdsgtlh-29" value="Dualiity" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="-ucGmdWXKnA_pTdsgtlh-17">
+          <mxGeometry x="0.1176" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="-ucGmdWXKnA_pTdsgtlh-25" value="" style="endArrow=none;html=1;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="500" y="179.66" as="sourcePoint" />
@@ -83,6 +91,9 @@
           <mxGeometry x="-0.1146" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="-ucGmdWXKnA_pTdsgtlh-30" value="REA Model between IT Service Provider and SU Interactive" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;hachureGap=4;pointerEvents=0;" vertex="1" parent="1">
+          <mxGeometry x="230" y="80" width="410" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
