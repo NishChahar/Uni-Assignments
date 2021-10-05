@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-10-05T13:50:04.081Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Safari/537.36" etag="-NBYa_nI0U8KdSSCYC6-" version="15.4.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-05T15:17:44.568Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Safari/537.36" etag="EZFKXtKLRwVnKVThUV6W" version="15.4.2" type="github">
   <diagram id="60Fuv_E9jxumiqPw0B0z" name="Page-1">
-    <mxGraphModel dx="768" dy="784" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1937" dy="784" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -11,7 +11,9 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="8iM6rVeEPwwbN4WxqQ_r-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="8iM6rVeEPwwbN4WxqQ_r-1" target="8iM6rVeEPwwbN4WxqQ_r-8">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="981" y="290" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="8iM6rVeEPwwbN4WxqQ_r-1" value="AND" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="545" y="260" width="80" height="60" as="geometry" />
@@ -28,14 +30,249 @@
         <mxCell id="8iM6rVeEPwwbN4WxqQ_r-3" value="Order Received for Tablet" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="470" y="20" width="230" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="8iM6rVeEPwwbN4WxqQ_r-56" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8iM6rVeEPwwbN4WxqQ_r-6" target="8iM6rVeEPwwbN4WxqQ_r-55">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="8iM6rVeEPwwbN4WxqQ_r-6" value="Tablet Received for Inspection" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="470" y="384" width="230" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8iM6rVeEPwwbN4WxqQ_r-7" value="Charger Received for Inspection" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="90" y="384" width="230" height="60" as="geometry" />
+          <mxGeometry x="-665" y="384" width="230" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="8iM6rVeEPwwbN4WxqQ_r-8" value="Order Received for Tablet" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="850" y="384" width="230" height="60" as="geometry" />
+        <mxCell id="8iM6rVeEPwwbN4WxqQ_r-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8iM6rVeEPwwbN4WxqQ_r-8" target="8iM6rVeEPwwbN4WxqQ_r-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8iM6rVeEPwwbN4WxqQ_r-8" value="Headset Received for Inspection" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="1487" y="384" width="230" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8iM6rVeEPwwbN4WxqQ_r-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8iM6rVeEPwwbN4WxqQ_r-12" target="8iM6rVeEPwwbN4WxqQ_r-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8iM6rVeEPwwbN4WxqQ_r-12" value="Inspect the headset" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1487" y="520" width="230" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8iM6rVeEPwwbN4WxqQ_r-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="8iM6rVeEPwwbN4WxqQ_r-14" target="8iM6rVeEPwwbN4WxqQ_r-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8iM6rVeEPwwbN4WxqQ_r-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="8iM6rVeEPwwbN4WxqQ_r-14" target="8iM6rVeEPwwbN4WxqQ_r-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8iM6rVeEPwwbN4WxqQ_r-14" value="XOR" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1562" y="640" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8iM6rVeEPwwbN4WxqQ_r-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="8iM6rVeEPwwbN4WxqQ_r-16" target="8iM6rVeEPwwbN4WxqQ_r-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8iM6rVeEPwwbN4WxqQ_r-16" value="Headset is working" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="1257" y="710" width="230" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8iM6rVeEPwwbN4WxqQ_r-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8iM6rVeEPwwbN4WxqQ_r-17" target="8iM6rVeEPwwbN4WxqQ_r-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8iM6rVeEPwwbN4WxqQ_r-17" value="Headset is not working" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="1717" y="710" width="230" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8iM6rVeEPwwbN4WxqQ_r-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="8iM6rVeEPwwbN4WxqQ_r-22" target="8iM6rVeEPwwbN4WxqQ_r-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8iM6rVeEPwwbN4WxqQ_r-22" value="Get a new headset" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1717" y="1140" width="230" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8iM6rVeEPwwbN4WxqQ_r-25" value="Headset is added to the package" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="1487" y="1290" width="230" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8iM6rVeEPwwbN4WxqQ_r-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="8iM6rVeEPwwbN4WxqQ_r-30">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-550.0000000000005" y="444" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8iM6rVeEPwwbN4WxqQ_r-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8iM6rVeEPwwbN4WxqQ_r-30" target="8iM6rVeEPwwbN4WxqQ_r-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8iM6rVeEPwwbN4WxqQ_r-30" value="Inspect the charger" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-665" y="520" width="230" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8iM6rVeEPwwbN4WxqQ_r-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="8iM6rVeEPwwbN4WxqQ_r-33" target="8iM6rVeEPwwbN4WxqQ_r-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8iM6rVeEPwwbN4WxqQ_r-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="8iM6rVeEPwwbN4WxqQ_r-33" target="8iM6rVeEPwwbN4WxqQ_r-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8iM6rVeEPwwbN4WxqQ_r-33" value="XOR" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-590" y="640" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8iM6rVeEPwwbN4WxqQ_r-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="8iM6rVeEPwwbN4WxqQ_r-35" target="8iM6rVeEPwwbN4WxqQ_r-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8iM6rVeEPwwbN4WxqQ_r-35" value="Charger is working" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="-895" y="710" width="230" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8iM6rVeEPwwbN4WxqQ_r-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8iM6rVeEPwwbN4WxqQ_r-37" target="8iM6rVeEPwwbN4WxqQ_r-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8iM6rVeEPwwbN4WxqQ_r-37" value="Charger is not working" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="-435" y="710" width="230" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8iM6rVeEPwwbN4WxqQ_r-51" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8iM6rVeEPwwbN4WxqQ_r-39" target="8iM6rVeEPwwbN4WxqQ_r-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8iM6rVeEPwwbN4WxqQ_r-39" value="Discard the charger" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-435" y="840" width="230" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8iM6rVeEPwwbN4WxqQ_r-40" value="Headset is added to the package" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="-665" y="1487" width="230" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8iM6rVeEPwwbN4WxqQ_r-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8iM6rVeEPwwbN4WxqQ_r-41" target="8iM6rVeEPwwbN4WxqQ_r-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8iM6rVeEPwwbN4WxqQ_r-41" value="Discard the headset" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1717" y="840" width="230" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8iM6rVeEPwwbN4WxqQ_r-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8iM6rVeEPwwbN4WxqQ_r-43" target="8iM6rVeEPwwbN4WxqQ_r-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8iM6rVeEPwwbN4WxqQ_r-43" value="Headset discarded" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="1717" y="990" width="230" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8iM6rVeEPwwbN4WxqQ_r-53" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8iM6rVeEPwwbN4WxqQ_r-48" target="8iM6rVeEPwwbN4WxqQ_r-52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8iM6rVeEPwwbN4WxqQ_r-48" value="Get a new charger" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-435" y="1140" width="230" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8iM6rVeEPwwbN4WxqQ_r-49" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8iM6rVeEPwwbN4WxqQ_r-50" target="8iM6rVeEPwwbN4WxqQ_r-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8iM6rVeEPwwbN4WxqQ_r-50" value="Charger discarded" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="-435" y="990" width="230" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8iM6rVeEPwwbN4WxqQ_r-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="8iM6rVeEPwwbN4WxqQ_r-52" target="8iM6rVeEPwwbN4WxqQ_r-30">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-75" y="1320" />
+              <mxPoint x="-75" y="550" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8iM6rVeEPwwbN4WxqQ_r-52" value="New charger received" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="-435" y="1290" width="230" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8iM6rVeEPwwbN4WxqQ_r-62" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8iM6rVeEPwwbN4WxqQ_r-55" target="8iM6rVeEPwwbN4WxqQ_r-59">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8iM6rVeEPwwbN4WxqQ_r-55" value="Inspect the tablet for hardware damages" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="520" width="230" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8iM6rVeEPwwbN4WxqQ_r-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" source="8iM6rVeEPwwbN4WxqQ_r-59" target="8iM6rVeEPwwbN4WxqQ_r-60" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8iM6rVeEPwwbN4WxqQ_r-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" source="8iM6rVeEPwwbN4WxqQ_r-59" target="8iM6rVeEPwwbN4WxqQ_r-61" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8iM6rVeEPwwbN4WxqQ_r-59" value="XOR" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="545" y="640" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8iM6rVeEPwwbN4WxqQ_r-60" value="No visible hardware damaged" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="710" width="230" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8iM6rVeEPwwbN4WxqQ_r-64" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8iM6rVeEPwwbN4WxqQ_r-61" target="8iM6rVeEPwwbN4WxqQ_r-63">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8iM6rVeEPwwbN4WxqQ_r-61" value="Visible Hardware Damage" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="700" y="710" width="230" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8iM6rVeEPwwbN4WxqQ_r-66" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8iM6rVeEPwwbN4WxqQ_r-63" target="8iM6rVeEPwwbN4WxqQ_r-65">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8iM6rVeEPwwbN4WxqQ_r-63" value="Send tablet to Senior Inspector" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="700" y="840" width="230" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8iM6rVeEPwwbN4WxqQ_r-68" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8iM6rVeEPwwbN4WxqQ_r-65" target="8iM6rVeEPwwbN4WxqQ_r-67">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8iM6rVeEPwwbN4WxqQ_r-65" value="Tablet Sent" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="700" y="970" width="230" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8iM6rVeEPwwbN4WxqQ_r-74" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8iM6rVeEPwwbN4WxqQ_r-67" target="8iM6rVeEPwwbN4WxqQ_r-71">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8iM6rVeEPwwbN4WxqQ_r-67" value="Senior Inspector Inspects the tablet" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="700" y="1100" width="230" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8iM6rVeEPwwbN4WxqQ_r-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" source="8iM6rVeEPwwbN4WxqQ_r-71" target="8iM6rVeEPwwbN4WxqQ_r-72" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8iM6rVeEPwwbN4WxqQ_r-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" source="8iM6rVeEPwwbN4WxqQ_r-71" target="8iM6rVeEPwwbN4WxqQ_r-73" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8iM6rVeEPwwbN4WxqQ_r-71" value="XOR" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="775" y="1230" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8iM6rVeEPwwbN4WxqQ_r-76" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8iM6rVeEPwwbN4WxqQ_r-72" target="8iM6rVeEPwwbN4WxqQ_r-75">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8iM6rVeEPwwbN4WxqQ_r-72" value="Tablet can&#39;t be repaired" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="1300" width="230" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8iM6rVeEPwwbN4WxqQ_r-82" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8iM6rVeEPwwbN4WxqQ_r-73" target="8iM6rVeEPwwbN4WxqQ_r-80">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8iM6rVeEPwwbN4WxqQ_r-73" value="Tablet can be repaired" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="930" y="1300" width="230" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8iM6rVeEPwwbN4WxqQ_r-78" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8iM6rVeEPwwbN4WxqQ_r-75" target="8iM6rVeEPwwbN4WxqQ_r-77">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8iM6rVeEPwwbN4WxqQ_r-75" value="Abort the Inspection Process" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="1430" width="230" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8iM6rVeEPwwbN4WxqQ_r-77" value="Inspection Aborted" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="1560" width="230" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8iM6rVeEPwwbN4WxqQ_r-79" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="8iM6rVeEPwwbN4WxqQ_r-80" target="8iM6rVeEPwwbN4WxqQ_r-81" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8iM6rVeEPwwbN4WxqQ_r-80" value="Repair the tablet" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="930" y="1430" width="230" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8iM6rVeEPwwbN4WxqQ_r-86" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8iM6rVeEPwwbN4WxqQ_r-81" target="8iM6rVeEPwwbN4WxqQ_r-84">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8iM6rVeEPwwbN4WxqQ_r-81" value="Tablet Repaired" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="930" y="1560" width="230" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8iM6rVeEPwwbN4WxqQ_r-83" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="8iM6rVeEPwwbN4WxqQ_r-84" target="8iM6rVeEPwwbN4WxqQ_r-85" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8iM6rVeEPwwbN4WxqQ_r-84" value="Send the tablet to Junior Inspector" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="930" y="1690" width="230" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8iM6rVeEPwwbN4WxqQ_r-94" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8iM6rVeEPwwbN4WxqQ_r-85" target="8iM6rVeEPwwbN4WxqQ_r-88">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8iM6rVeEPwwbN4WxqQ_r-85" value="Tablet Sent" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="930" y="1820" width="230" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8iM6rVeEPwwbN4WxqQ_r-87" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="8iM6rVeEPwwbN4WxqQ_r-88" target="8iM6rVeEPwwbN4WxqQ_r-91" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8iM6rVeEPwwbN4WxqQ_r-88" value="Junior Inspector Inspects Software Installation" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="930" y="1950" width="230" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8iM6rVeEPwwbN4WxqQ_r-89" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" source="8iM6rVeEPwwbN4WxqQ_r-91" target="8iM6rVeEPwwbN4WxqQ_r-92" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8iM6rVeEPwwbN4WxqQ_r-90" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" source="8iM6rVeEPwwbN4WxqQ_r-91" target="8iM6rVeEPwwbN4WxqQ_r-93" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8iM6rVeEPwwbN4WxqQ_r-91" value="XOR" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1005" y="2080" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8iM6rVeEPwwbN4WxqQ_r-92" value="Tablet can&#39;t be repaired" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="700" y="2150" width="230" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8iM6rVeEPwwbN4WxqQ_r-93" value="Tablet can be repaired" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="1160" y="2150" width="230" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
