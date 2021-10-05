@@ -1,1 +1,43 @@
-<mxfile host="app.diagrams.net" modified="2021-10-05T13:08:18.427Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Safari/537.36" etag="8BgqQok9yGQfw03SA_xy" version="15.4.2" type="github"><diagram id="60Fuv_E9jxumiqPw0B0z" name="Page-1">dZHBDoMgDIafhruCmfPs3Lzs5GFnIp2QoDXIotvTTwPOEbeEQ/n+v5S2hOXtdDG8l1cUoAmNxETYiVAaJ5SS5UTi6UiaJQ40Rglv2kClXuBh5OlDCRgCo0XUVvUhrLHroLYB48bgGNruqMOqPW9gB6qa6z29KWGlp/Eh24QSVCN96SNNndDy1ew7GSQXOH4hVhCWG0TronbKQS/DW+fi8s5/1M/HDHT2R8IcbG/Pl2BDrHgD</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-10-05T13:50:04.081Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Safari/537.36" etag="-NBYa_nI0U8KdSSCYC6-" version="15.4.2" type="github">
+  <diagram id="60Fuv_E9jxumiqPw0B0z" name="Page-1">
+    <mxGraphModel dx="768" dy="784" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="8iM6rVeEPwwbN4WxqQ_r-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8iM6rVeEPwwbN4WxqQ_r-1" target="8iM6rVeEPwwbN4WxqQ_r-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8iM6rVeEPwwbN4WxqQ_r-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="8iM6rVeEPwwbN4WxqQ_r-1" target="8iM6rVeEPwwbN4WxqQ_r-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8iM6rVeEPwwbN4WxqQ_r-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="8iM6rVeEPwwbN4WxqQ_r-1" target="8iM6rVeEPwwbN4WxqQ_r-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8iM6rVeEPwwbN4WxqQ_r-1" value="AND" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="545" y="260" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8iM6rVeEPwwbN4WxqQ_r-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8iM6rVeEPwwbN4WxqQ_r-2" target="8iM6rVeEPwwbN4WxqQ_r-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8iM6rVeEPwwbN4WxqQ_r-2" value="Inspect Tablet and it&#39;s accessories" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="150" width="230" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8iM6rVeEPwwbN4WxqQ_r-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8iM6rVeEPwwbN4WxqQ_r-3" target="8iM6rVeEPwwbN4WxqQ_r-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8iM6rVeEPwwbN4WxqQ_r-3" value="Order Received for Tablet" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="20" width="230" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8iM6rVeEPwwbN4WxqQ_r-6" value="Tablet Received for Inspection" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="384" width="230" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8iM6rVeEPwwbN4WxqQ_r-7" value="Charger Received for Inspection" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="384" width="230" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8iM6rVeEPwwbN4WxqQ_r-8" value="Order Received for Tablet" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="850" y="384" width="230" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
