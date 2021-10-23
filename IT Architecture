@@ -1,9 +1,15 @@
-<mxfile host="app.diagrams.net" modified="2021-10-23T09:38:10.520Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" etag="H8ZK8Mvg3gTwacT3tINb" version="15.5.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-23T09:42:29.073Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" etag="sG5AZkcATAlKUPyNYn9q" version="15.5.8" type="github">
   <diagram id="DYId8dik5kY3RVHN7-qY" name="Page-1">
-    <mxGraphModel dx="3571" dy="3367" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2894" dy="2841" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="LPlk_oR7lY6wKiOqtkGC-66" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fontSize=30;fontColor=#000000;strokeWidth=6;" vertex="1" parent="1">
+          <mxGeometry x="1680" y="-490" width="2590" height="1570" as="geometry" />
+        </mxCell>
+        <mxCell id="LPlk_oR7lY6wKiOqtkGC-69" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;fontSize=30;fontColor=#000000;endArrow=classic;endFill=1;strokeWidth=5;startArrow=classic;startFill=1;" edge="1" parent="1" source="LPlk_oR7lY6wKiOqtkGC-59" target="LPlk_oR7lY6wKiOqtkGC-68">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="LPlk_oR7lY6wKiOqtkGC-59" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=30;dashed=1;strokeWidth=6;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="1">
           <mxGeometry x="1950" y="-10" width="470" height="300" as="geometry" />
         </mxCell>
@@ -211,6 +217,15 @@
         </mxCell>
         <mxCell id="LPlk_oR7lY6wKiOqtkGC-64" value="GAME DEVS" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=30;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="4035" y="500" width="190" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LPlk_oR7lY6wKiOqtkGC-67" value="" style="verticalLabelPosition=bottom;sketch=0;html=1;fillColor=#282828;strokeColor=none;verticalAlign=top;pointerEvents=1;align=center;shape=mxgraph.cisco_safe.people_places_things_icons.icon2;dashed=1;fontSize=30;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="1750" y="-197" width="120" height="105.5" as="geometry" />
+        </mxCell>
+        <mxCell id="LPlk_oR7lY6wKiOqtkGC-68" value="Employees" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=30;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="1720" y="-90" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LPlk_oR7lY6wKiOqtkGC-70" value="Shareholders" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=30;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="2950" y="-470" width="190" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
