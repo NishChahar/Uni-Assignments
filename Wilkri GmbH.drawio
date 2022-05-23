@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-05-23T17:17:57.953Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.4 Safari/605.1.15" etag="WTWyeXEFiMWgPaVxOflx" version="18.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-23T17:58:12.386Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.4 Safari/605.1.15" etag="wmwvCR9NkSDE1BpxxbaR" version="18.1.1" type="github">
   <diagram id="5tME_Iv4Cdq2cvn0iNmD" name="Page-1">
-    <mxGraphModel dx="3206" dy="1179" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="8299" dy="4125" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -251,6 +251,9 @@
             <mxPoint x="1278.999999999999" y="4430" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="rt0IrwSkyU84ZXrt_7lH-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=18;" edge="1" parent="1" source="rt0IrwSkyU84ZXrt_7lH-4" target="rt0IrwSkyU84ZXrt_7lH-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="rt0IrwSkyU84ZXrt_7lH-4" value="&lt;font style=&quot;font-size: 18px&quot;&gt;Order Forwarded&lt;/font&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="1169" y="4580" width="220" height="80" as="geometry" />
         </mxCell>
@@ -261,6 +264,41 @@
         </mxCell>
         <mxCell id="rt0IrwSkyU84ZXrt_7lH-6" value="&lt;font style=&quot;font-size: 18px&quot;&gt;Forward the order to pre-print stage&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="1700" y="3620" width="220" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="rt0IrwSkyU84ZXrt_7lH-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=18;" edge="1" target="rt0IrwSkyU84ZXrt_7lH-8" parent="1" source="rt0IrwSkyU84ZXrt_7lH-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1810" y="3722" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rt0IrwSkyU84ZXrt_7lH-8" value="&lt;font style=&quot;font-size: 18px&quot;&gt;Order Forwarded&lt;/font&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="1700" y="3850" width="220" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="rt0IrwSkyU84ZXrt_7lH-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=18;" edge="1" target="rt0IrwSkyU84ZXrt_7lH-10" parent="1" source="rt0IrwSkyU84ZXrt_7lH-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1810" y="3940" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rt0IrwSkyU84ZXrt_7lH-10" value="&lt;font style=&quot;font-size: 18px&quot;&gt;Design the label in cooperation with customer&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="1700" y="4080" width="220" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="rt0IrwSkyU84ZXrt_7lH-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=18;" edge="1" target="rt0IrwSkyU84ZXrt_7lH-12" parent="1" source="rt0IrwSkyU84ZXrt_7lH-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1810" y="4170" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rt0IrwSkyU84ZXrt_7lH-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;fontSize=18;" edge="1" parent="1" source="rt0IrwSkyU84ZXrt_7lH-12" target="3kbX1bf6PnozNMtrNUod-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1050" y="4360" />
+              <mxPoint x="1050" y="2963" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rt0IrwSkyU84ZXrt_7lH-12" value="&lt;font style=&quot;font-size: 18px&quot;&gt;Label Designed&lt;/font&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="1700" y="4320" width="220" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="rt0IrwSkyU84ZXrt_7lH-16" value="&lt;font style=&quot;font-size: 18px&quot;&gt;Forward the order to pre-print stage&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="1530" y="4580" width="220" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
